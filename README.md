@@ -8,7 +8,7 @@ reproduction package. The checklist below guides you through the process.
 1. **Create a separate directory for your reproduction package.** You can either clone/fork/download 
 the template provided by this project or create a directory structure yourself. For example:
     ```
-    linux:/data/user> git clone 
+    linux:/data/user> git clone https://github.com/jdeplaa/open-data-template.git
     ```
 2. **If you performed your analysis in Jupyter Notebooks, you can include the relevant files in the
 ``notebooks`` directory.** Please also include a short README file explaining how you need to run the
