@@ -42,7 +42,7 @@ your [ORCID](https://orcid.org/) to login. Show the result to a colleague/superv
 will be removed after a couple of days.
 
 9. **If all the checks are OK, upload your package to the real [Zenodo](https://zenodo.org).**
-You can use your [ORCID](https://orcid.org/) to login. Do not forget to add the SRON community to your upload.
+You can use your [ORCID](https://orcid.org/) to login. Do not forget to add your institute community to your upload, or any other community that you want to submit to.
 Be sure to let Zenodo create a DOI for you and do NOT use the DOI of the paper ([What is a DOI](https://en.wikipedia.org/wiki/Digital_object_identifier)).  
 
 10. **Make clear in your paper that the data are available online.** Some journals require you to add a [data access statement](https://library.bath.ac.uk/research-data/archiving-and-sharing/data-access-statements#:~:text=Data%20access%20statements%2C%20also%20known,conditions%20they%20can%20be%20accessed.)
